@@ -9,3 +9,14 @@ background:linear-gradient(#1DE9B6 0%,#F9A825 100% );
 img{border-radius:50%;
  width:100px;
 }
+li{
+display: inline;
+list-style: none;
+    float: left;
+    color:darkcyan;
+cursor: pointer;
+    left: 20px;
+    right:20px;
+    padding-left:10px;
+    padding-right: 10px;
+}
